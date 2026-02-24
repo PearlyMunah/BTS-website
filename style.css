@@ -787,7 +787,7 @@
 @layer cta {
   .cta {
     background-color: var(--c-dark-navi);
-    background-image: url('/assets/patterns/semi-circles.png');
+    background-image: url('assets/patterns/semi-circles.png');
     background-repeat: no-repeat;
     background-position: 75% 100%;
     background-size: 320%;
@@ -928,3 +928,4 @@
   }
 
 }
+
